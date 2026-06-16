@@ -8,6 +8,7 @@
       "firebase.json",
       ".firebaserc",
       "firestore.rules",
+      ".firebase/**",
       "**/.*",
       "**/node_modules/**",
       "seed-data.json",
